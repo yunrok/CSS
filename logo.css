@@ -22,7 +22,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area {
 
-    color:#cccccc #; /* 접속자 수 글씨 색 */
+    color:#cccccc; /* 접속자 수 글씨 색 */
 
 }
 
