@@ -19,3 +19,27 @@ header .row>div:nth-child(1)>a>img {
   display: none;
 
 }
+
+#board-info #viewers-area {
+
+    color: #; /* 접속자 수 글씨 색 */
+
+}
+
+
+
+#board-info #viewers-area #viewers:before {
+
+    content: "구경 중인 이사단";   
+    cursor: text;
+
+}
+
+
+
+#board-info #viewers-area #viewers:after {
+
+    content: "명 접속중";
+    cursor: text;
+
+}
