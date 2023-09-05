@@ -8,3 +8,27 @@ header>#header-area>a>h1 {
 
 }
 
+#board-info #viewers-area {
+
+    color: #cccccc; /* 접속자 수 글씨 색 */
+
+}
+
+
+
+#board-info #viewers-area #viewers:before {
+
+    content: "구경 중인 이사단 "; 
+    cursor: text;
+
+}
+
+
+
+#board-info #viewers-area #viewers:after {
+
+    content: "명 접속중";   
+    cursor: text;
+
+}
+
