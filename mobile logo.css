@@ -27,7 +27,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "명 접속중";   
+    content: "명 구경중";   
     cursor: text;
 
 }
