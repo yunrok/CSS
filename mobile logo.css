@@ -1,6 +1,6 @@
 header>#header-area>a>h1 {
 
-    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo1.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 32px;
 
@@ -18,7 +18,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "브론즈 턱걸이 이이랴"; 
+    content: "하ol바라아ol이언 이이랴"; 
     cursor: text;
 
 }
