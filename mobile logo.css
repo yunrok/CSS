@@ -1,6 +1,6 @@
 header>#header-area>a>h1 {
 
-    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo3.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo2.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 32px;
 
@@ -18,7 +18,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "불타는 크리스마스"; 
+    content: "불타는 집"; 
     cursor: text;
 
 }
