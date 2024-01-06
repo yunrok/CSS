@@ -1,6 +1,6 @@
 header>#header-area>a>h1 {
 
-    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo2.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo4.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 32px;
 
@@ -10,7 +10,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area {
 
-    color: #cccccc; /* 접속자 수 글씨 색 */
+    color: #1d82c4; /* 접속자 수 글씨 색 */
 
 }
 
@@ -18,7 +18,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "불타는 집"; 
+    content: "★빛나는 플레티넘 이이랴★"; 
     cursor: text;
 
 }
