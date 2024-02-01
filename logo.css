@@ -30,7 +30,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "대기업 이이랴 치지직으로 이적!";   
+    content: "대기업 이이랴 치지직 이직 과정";   
     cursor: text;
 
 }
@@ -39,7 +39,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "";
+    content: "명 구경 중!";
     cursor: text;
 
 }
