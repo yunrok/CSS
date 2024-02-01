@@ -6,7 +6,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo4.png) no-repeat; /* url(로고 경로 입력) */
+    background: url(https://raw.githubusercontent.com/yunrok/CSS/main/logo5.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
@@ -22,7 +22,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area {
 
-    color:#1d82c4; /* 접속자 수 글씨 색 */
+    color:#00ffa0; /* 접속자 수 글씨 색 */
 
 }
 
@@ -30,7 +30,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "★빛나는 플레티넘 이이랴★";   
+    content: "대기업 이이랴 치지직으로 이적!";   
     cursor: text;
 
 }
@@ -39,7 +39,7 @@ header .row>div:nth-child(1)>a>img {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "명 구경중";
+    content: "";
     cursor: text;
 
 }
