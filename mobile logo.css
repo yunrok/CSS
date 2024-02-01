@@ -10,7 +10,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area {
 
-    color: #1d82c4; /* 접속자 수 글씨 색 */
+    color: #00ffa0; /* 접속자 수 글씨 색 */
 
 }
 
@@ -18,7 +18,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:before {
 
-    content: "★빛나는 플레티넘 이이랴★"; 
+    content: "대기업 이이랴 치지직으로 이적!"; 
     cursor: text;
 
 }
@@ -27,7 +27,7 @@ header>#header-area>a>h1 {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "명 구경중";   
+    content: "";   
     cursor: text;
 
 }
